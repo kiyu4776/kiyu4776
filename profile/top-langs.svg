@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="165"
-        viewBox="0 0 300 165"
+        height="135"
+        viewBox="0 0 300 135"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -98,24 +98,10 @@
         />
 
         
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >&#26368;&#12418;&#12424;&#12367;&#20351;&#12387;&#12390;&#12356;&#12427;&#35328;&#35486;</text>
-    </g>
-      </g>
-    
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
+          transform="translate(0, 25)"
         >
           
     <svg data-testid="lang-items" x="25">
