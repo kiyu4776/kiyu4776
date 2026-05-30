@@ -1,3 +1,3 @@
 ![Top Langs](./profile/top-langs.svg)
-![zikanneee](./profile/zikanneee.png)
+<!--![zikanneee](./profile/zikanneee.png)--!>
 
